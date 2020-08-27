@@ -1,0 +1,21 @@
+# use Java and root
+dist: trusty
+sudo: true
+language: Java
+jdk: oraclejdk8
+
+# install mdl for checking Markdown
+before_install:
+  - gem install mdl
+
+# Send emails when there is a change or failure
+notifications:
+  email:
+    on_success: change
+    on_failure: always
+
+# Lint the README.md file with mdl
+# Lint the conduct.md file with mdl
+script:
+  - mdl README.md
+  - mdl conduct.md
