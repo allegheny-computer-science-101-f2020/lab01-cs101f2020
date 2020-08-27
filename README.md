@@ -28,12 +28,9 @@ then use this conduct guide to govern all course interactions.
 
 ## Objectives
 
-* To develop a code of conduct governing how all members of Data Abstraction
-class will interact during class, lab and practical sessions, as well as when
-working in a team.
+* To develop a code of conduct governing how all members of Data Abstraction class will interact during class, lab and practical sessions, as well as when working in a team.
 
-* To learn how to use GitHub and the GitHub Flow model to support
-collaboration among a team of software engineers.
+* To learn how to use GitHub and the GitHub Flow model to support collaboration among a team of software engineers.
 
 * To learn how to use Markdown to complete technical writing tasks.
 
