@@ -3,11 +3,15 @@ name: linting
 on: [push, pull_request]
 
 jobs:
-  yamllint:
+  markdownlint:
     runs-on: ubuntu-latest
 
 steps:
-  - name: Check the writing
+
+  - name: Check out code
+    uses: actions/checkout@v2
+
+  - name: Run the Markdown linter
     uses: bewuethr/mdl-action@v1
     with:
       style-file: .github/workflows/style.rb
