@@ -5,10 +5,9 @@ on: [push, pull_request]
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
 steps:
-  - name: Check the writing
-    uses: bewuethr/mdl-action@v1
+  - name: Check for existence of git files
+    uses: andstor/file-existence-action@v1
     with:
-      style-file: .github/workflows/style.rb
-      files: "README.md, conduct.md"
+      files: ".gitignore"    
