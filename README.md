@@ -1,6 +1,6 @@
 # :crocodile: Developing Code of Conduct for CMPSC 101 Fall 2020: LAB 01 Assignment
 
-[![Actions Status](https://github.com/allegheny-computer-science-101-f2020/lab01-cs101f2020/workflows/build/badge.svg)](https://github.com/allegheny-computer-science-101-f2020/lab01-cs101f2020/actions)
+[![Actions Status](https://github.com/allegheny-computer-science-101-f2020/lab01-cs101f2020/workflows/linting/badge.svg)](https://github.com/allegheny-computer-science-101-f2020/lab01-cs101f2020/actions)
 
 ## Table of Contents
 
