@@ -1,6 +1,11 @@
 name: linting
 
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - '**'
+    tags-ignore:
+      - '**'
 
 jobs:
   markdownlint:
