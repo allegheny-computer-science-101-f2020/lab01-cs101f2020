@@ -1,17 +1,27 @@
 # :crocodile: Developing Code of Conduct for CMPSC 101 Fall 2020
+
 # LAB 01 Assignment
 
 ## Table of Contents
+
 * [Summary](#summary)
+
 * [Objectives](#objectives)
+
 * [Reading Assignment](#reading-assignment)
+
 * [Creating the Code of Conduct Guide](#creating-the-code-of-conduct-guide)
+
   + [Accessing the Repository](#accessing-the-repository)
+
   + [Tasks](#tasks)
+
   + [Team Work](#team-work)
+  
 * [Problems](problems-with-the-conduct-guide)
 
 ## Summary
+
 This repository contains the template for the code of conduct in [Computer Science 101 Fall
 2020](https://cs.allegheny.edu/sites/jjumadinova/teaching/101). The class will
 collaboratively improve and add missing details to the template to develop a
@@ -19,26 +29,29 @@ completed and comprehensive code of conduct. The instructor and students will
 then use this conduct guide to govern all course interactions.
 
 ## Objectives
-- To develop a code of conduct governing how all members of Data Abstraction
+
+* To develop a code of conduct governing how all members of Data Abstraction
 class will interact during class, lab and practical sessions, as well as when
 working in a team.
-- To learn how to use GitHub and the  GitHub  Flow  model  to  support  
-collaboration  among  a team of software engineers.
-- To learn how to use Markdown to complete technical writing tasks.
+* To learn how to use GitHub and the GitHub Flow model to support  
+collaboration among a team of software engineers.
+* To learn how to use Markdown to complete technical writing tasks.
 
 ## Reading Assignment
-If you have not done so already, please read all of the relevant “GitHub Guides”,
-available at https://guides.github.com/, that explain how to use many of the features
+
+If you have not done so already, please read all of the relevant [GitHub Guides]
+(https://guides.github.com/) that explain how to use many of the features
 that GitHub provides. In  particular,  please  make  sure  that  you  have  read  
 guides  such  as  "Mastering  Markdown"  and "Documenting Your Projects on GitHub";
 each of them will help you to understand how to use both GitHub and GitHub Classroom.  
-You are also expected to read ACM's Code of Ethics and Professional Conduct
-available at https://www.acm.org/code-of-ethics. Please see the course instructor
+You are also expected to read [ACM's Code of Ethics and Professional Conduct]
+(https://www.acm.org/code-of-ethics). Please see the course instructor
 if you have questions on these reading assignments.
 
 ## Creating the Code of Conduct Guide
 
 ### Accessing the Repository
+
 Unlike all subsequent assignments, where you will be invited to use a provided
 GitHub Classroom link to create your own copy of the starter repository, in this
 lab all class members are going to work in the same [lab 01 repository]
@@ -47,6 +60,7 @@ lab all class members are going to work in the same [lab 01 repository]
 the conduct guide.
 
 ### Tasks
+
 For this laboratory assignment,  your  task  is  to  collaborate  with  the  
 members  of  your  class  to  write  a  full-featured code of conduct, using
 the GitHub Flow model to facilitate collaboration. You should first read the
@@ -72,6 +86,7 @@ delete the feature branch from the repository and start working on the next
 task associated with completing this project.
 
 ### Team Work
+
 Each member of the class will be randomly assigned to a team at the beginning
 of the lab session. Each team will be assigned one feature/section to start
 with. All teams are expected to make contributions to all sections of the conduct

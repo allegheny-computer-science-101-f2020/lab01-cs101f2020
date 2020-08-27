@@ -59,7 +59,6 @@
   * Members shall not
     * :heavy_exclamation_mark: TODO: add items in the U category for deadlines
 
-
 ### Communication
 
 * Acceptable Conduct (A):
@@ -71,7 +70,6 @@
   * Members shall not
     * :heavy_exclamation_mark: TODO: add items in the U category for communication
     in class (in-person and online), lab and practical sessions, and during team meetings
-
 
 ## Team Work
 Some of the class activities and lab projects will require team collaboration.
