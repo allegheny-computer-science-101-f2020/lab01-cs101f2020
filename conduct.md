@@ -72,6 +72,7 @@
     in class (in-person and online), lab and practical sessions, and during team meetings
 
 ## Team Work
+
 Some of the class activities and lab projects will require team collaboration.
 This section of the Code of Conduct will provide guidance on effective and
 inclusive team work.
@@ -94,7 +95,7 @@ truly be all there.
     * Approach issues and team members with professionalism
     * Demonstrate continuous engagement with tasks
     * Be open minded
-    * Raise a disagreeing opinion in a respectful manner    
+    * Raise a disagreeing opinion in a respectful manner
     * :heavy_exclamation_mark: TODO: add any additional items in the A category for the participation in a team
 
 * Unacceptable Conduct (U):
