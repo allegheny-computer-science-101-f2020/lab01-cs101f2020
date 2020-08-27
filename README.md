@@ -1,4 +1,5 @@
-# :crocodile: Developing Code of Conduct for CMPSC 101 Fall 2020 :crocodile:
+# :crocodile: Developing Code of Conduct for CMPSC 101 Fall 2020
+# LAB 01 Assignment
 
 ## Table of Contents
 * [Summary](#summary)
@@ -8,6 +9,7 @@
   + [Accessing the Repository](#accessing-the-repository)
   + [Tasks](#tasks)
   + [Team Work](#team-work)
+* [Problems](problems-with-the-conduct-guide)
 
 ## Summary
 This repository contains the template for the code of conduct in [Computer Science 101 Fall
@@ -94,7 +96,7 @@ contribution to the code of conduct GitHub repository.  By the end of the
 laboratory session, the team should have identified roles for each student
 in the class, thus ensuring that everyone has assigned tasks that will both
 capitalize on their expertise and enhance their software engineering skills.
-Please remember that Travis CI is configured to check the Markdown files in
+Please remember that GitHub Actions CI is configured to check the Markdown files in
 the repository with "mdl".  If your writing meets all the established requirements
 set by this linting tools, then you will see a green :heavy_check_mark: in the listing of
 commits in GitHub after awhile.  If your submission does not meet the requirements,

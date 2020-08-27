@@ -1,0 +1,14 @@
+name: build
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+steps:
+  - name: Check the writing
+    uses: bewuethr/mdl-action@v1
+    with:
+      style-file: .github/workflows/style.rb
+      files: "README.md, conduct.md"
