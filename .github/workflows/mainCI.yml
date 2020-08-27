@@ -1,13 +1,13 @@
-name: build
+name: linting
 
 on: [push, pull_request]
 
 jobs:
-  build:
+  yamllint:
     runs-on: ubuntu-latest
 
 steps:
-  - name: Check for existence of git files
-    uses: andstor/file-existence-action@v1
+  - name: Check the writing
+    uses: bewuethr/mdl-action@v1
     with:
-      files: ".gitignore"    
+      style-file: .github/workflows/style.rb
