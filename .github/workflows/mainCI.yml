@@ -11,12 +11,12 @@ jobs:
   markdownlint:
     runs-on: ubuntu-latest
 
-steps:
+    steps:
 
-  - name: Check out code
-    uses: actions/checkout@v2
+      - name: Check out code
+        uses: actions/checkout@v2
 
-  - name: Run the Markdown linter
-    uses: bewuethr/mdl-action@v1
-    with:
-      style-file: .github/workflows/style.rb
+      - name: Run the Markdown linter
+        uses: bewuethr/mdl-action@v1
+        with:
+          style-file: .github/workflows/style.rb
