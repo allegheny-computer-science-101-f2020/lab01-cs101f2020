@@ -2,7 +2,7 @@
 
 ## DUE: September 10th by 3:00pm
 
-[![Actions Status](../../workflows/linting/badge.svg)](https://github.com/allegheny-computer-science-101-f2020/lab01-cs101f2020/actions)
+[![Actions Status](../../workflows/linting/badge.svg)](../../actions)
 
 ## Table of Contents
 
