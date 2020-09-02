@@ -1,4 +1,5 @@
 # :crocodile: Developing Code of Conduct for CMPSC 101 Fall 2020: LAB 01 Assignment
+## DUE: September 10th by 3:00pm
 
 [![Actions Status](https://github.com/allegheny-computer-science-101-f2020/lab01-cs101f2020/workflows/linting/badge.svg)](https://github.com/allegheny-computer-science-101-f2020/lab01-cs101f2020/actions)
 
@@ -28,9 +29,13 @@ collaboratively improve and add missing details to the template to develop a
 completed and comprehensive code of conduct. The instructor and students will
 then use this conduct guide to govern all course interactions.
 
+Please watch a video introducing this lab assignment under the course's YouTube playlist:
+[![Code Of Conduct Assignment Introduction](CodeOfConduct_YouTubeThumbnail_small.png)](https://www.youtube.com/playlist?list=PLz9YRLfRGO9LSO8Ptich-GAgCs90gEbQ0)
+
 ## Objectives
 
-* To develop a code of conduct governing how all members of Data Abstraction class will interact during class, lab and practical sessions, as well as when working in a team.
+* To develop a code of conduct governing how all members of Data Abstraction class will interact during class,
+lab and practical sessions, as well as when working in a team.
 
 * To learn how to use GitHub and the GitHub Flow model to support collaboration among a team of software engineers.
 
