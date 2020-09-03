@@ -129,7 +129,9 @@ how long a decision will take to implement.
     * A new decision should be made when a previous decision cannot be implemented
     * When a choice is disputed, use Github issue tracker and let team members
       share their opinion
-    * Group members will agree on an allotted amount of time to respond to decision discussion. If a group member does not participate in the decision within the allotted amount of time, their input is forfeited.
+    * Group members will agree on an allotted amount of time to respond to
+    * decision discussion. If a group member does not participate in the decision
+    * within the allotted amount of time, their input is forfeited.
 
 * Unacceptable Conduct (U):
   * Members shall not
