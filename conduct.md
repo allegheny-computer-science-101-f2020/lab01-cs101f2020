@@ -224,10 +224,10 @@ of 2020.
   Talk to instructor to determine the grade for that specific task.
   * Level II: Upon the accumulation of three level I infractions, project
   managers and the instructor will issue a formal level II infraction.
-  :heavy_exclamation_mark: TODO: Add an action to be taken for the level II infraction
+  Talk to the instructor to determine what grade and what level of punishment is necessary.
   * Level III A Level III infraction will be given to an individual who has
   accumulated five Level I infractions.
-  :heavy_exclamation_mark: TODO: Add an action to be taken for the level III infraction
+  Automatic 0 on the assignment, instructor will decide how far punishment will go.
 
 Class member(s) are encouraged to report any infractions in order to ensure
 a safe, inclusive and collegial environment.
