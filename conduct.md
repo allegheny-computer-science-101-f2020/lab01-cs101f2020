@@ -143,7 +143,7 @@ how long a decision will take to implement.
     * Directly contradict the decision
     * Refuse to work on the decided option
     * Make decisions that would affect another team without first notifying them
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
+    * Make decisions carelessly or without thought 
 
 ### Postmortems
 
