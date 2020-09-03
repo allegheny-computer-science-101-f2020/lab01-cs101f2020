@@ -138,7 +138,7 @@ how long a decision will take to implement.
     * Directly contradict the decision
     * Refuse to work on the decided option
     * Make decisions that would affect another team without first notifying them
-    * Made desisions that unfairly burden one group member - to be determined by Professor or technical leaders in event of dispute
+    * Made decisions that unfairly burden one group member - to be determined by Professor or technical leaders in event of dispute
 
 ### Postmortems
 
