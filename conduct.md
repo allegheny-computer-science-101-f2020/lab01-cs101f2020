@@ -47,8 +47,7 @@
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for attendance
-
+    * :heavy_exclamation_mark: miss class without contacting and giving reason for absence.
 ### Deadlines
 
 * Acceptable Conduct (A):
