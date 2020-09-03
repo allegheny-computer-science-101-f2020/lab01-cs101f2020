@@ -60,6 +60,7 @@
 * Unacceptable Conduct (U):
   * Members shall not
     * :heavy_exclamation_mark: turn in assignments late without a valid excuse.
+    * :heavy_exclamation_mark: Not working with your team's deadlines. 
 
 ### Communication
 
