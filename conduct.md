@@ -131,7 +131,7 @@ how long a decision will take to implement.
       share their opinion
     * Group members will agree on an allotted amount of time to respond to decision
       discussion. If a group member does not participate in the decision within
-      alloted amount of time, their input is forfeited.
+      allotted amount of time, their input is forfeited.
 
 * Unacceptable Conduct (U):
   * Members shall not
