@@ -129,9 +129,9 @@ how long a decision will take to implement.
     * A new decision should be made when a previous decision cannot be implemented
     * When a choice is disputed, use Github issue tracker and let team members
       share their opinion
-    * Group members will agree on an allotted amount of time to respond to
-    * decision discussion. If a group member does not participate in the decision
-    * within the allotted amount of time, their input is forfeited.
+    * Group members will agree on an allotted amount of time to respond to decision
+      discussion. If a group member does not participate in the decision within
+      alloted amount of time, their input is forfeited.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -140,7 +140,8 @@ how long a decision will take to implement.
     * Directly contradict the decision
     * Refuse to work on the decided option
     * Make decisions that would affect another team without first notifying them
-    * Made decisions that unfairly burden one group member - to be determined by Professor or technical leaders in event of dispute
+    * Made decisions that unfairly burden one group member - to be determined by
+      Professor or technical leaders in event of dispute
 
 ### Postmortems
 
