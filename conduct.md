@@ -60,7 +60,7 @@
 * Unacceptable Conduct (U):
   * Members shall not
     * :heavy_exclamation_mark: turn in assignments late without a valid excuse.
-    * :heavy_exclamation_mark: Not working with your team's deadline. 
+    * :heavy_exclamation_mark: Not working with your team's deadline.
 
 ### Communication
 
@@ -99,7 +99,9 @@ truly be all there.
     * Demonstrate continuous engagement with tasks
     * Be open minded
     * Raise a disagreeing opinion in a respectful manner
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the participation in a team
+    * Be a contributing member in lab groups
+    * Attend class sessions and be engaged during class
+    * Be willing to help other classmates with problems they may have
 
 * Unacceptable Conduct (U):
   * Members shall not
