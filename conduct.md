@@ -64,6 +64,7 @@
 * Acceptable Conduct (A):
   * Members shall
     * Communicate regularly with the professor
+    // Example commit to demonstrate how to maintain continuity 
     * :heavy_exclamation_mark: TODO: add items in the A category for communication
     in class (in-person and online), lab and practical sessions, and during team meetings
 
