@@ -51,7 +51,7 @@
 
 ### Deadlines
 
-* Acceptable Conduct (A):
+* Acceptable Conduct (A): Best effort to turn everything in by due date. 
   * Members shall
     * :heavy_exclamation_mark: TODO: add items in the A category for deadlines
 
