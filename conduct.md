@@ -196,7 +196,7 @@ professional manner while keeping in mind the concerns of everyone involved.
     * Escalate existing conflicts that jeopardize the group project
     * Disregard or refuse to resolve an existing conflict
     that has been brought to their attention
-    * Ignore the instructor's and/or other members' opinions and ideas
+    * Ignore the instructor's and/or other members' opinions and ideas when resolving conflicts
 
 ## Infractions
 
