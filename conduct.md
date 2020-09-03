@@ -134,7 +134,7 @@ how long a decision will take to implement.
     * A new decision should be made when a previous decision cannot be implemented
     * When a choice is disputed, use Github issue tracker and let team members
       share their opinion
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team
+    * Refer to class notes and the book when unsure
 
 * Unacceptable Conduct (U):
   * Members shall not
