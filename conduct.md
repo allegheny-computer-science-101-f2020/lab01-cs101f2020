@@ -165,7 +165,8 @@ insight in how to improve in future projects.
     * Insult others while presenting criticism
     * Blame other members for any issues with the final product
     * Refuse to collaborate in fixing remaining issues
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the doing postmortems as a team
+    * :heavy_exclamation_mark:
+    * Refuse to attend meetings associated with the product
 
 ### Conflicts
 
