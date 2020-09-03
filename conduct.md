@@ -189,7 +189,7 @@ professional manner while keeping in mind the concerns of everyone involved.
     encountering a conflict
     * All parties are expected to be honest and respectful while their issue is being resolved
     * All parties are expected to be transparent about he source of the conflict so that the technical advisors can resolve the problem.
-    
+
 * Unacceptable Conduct (U):
   * Members shall not
     * Encourage or engage in conflicts that undermine the code
