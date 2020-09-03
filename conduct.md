@@ -129,7 +129,7 @@ how long a decision will take to implement.
     * A new decision should be made when a previous decision cannot be implemented
     * When a choice is disputed, use Github issue tracker and let team members
       share their opinion
-    * Group members will agree on an allotted amount of time to respond to decision discussion. If a group member does not participate in the decision within the allotted amount of time, their input is forfeited. 
+    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -164,7 +164,8 @@ insight in how to improve in future projects.
     * Insult others while presenting criticism
     * Blame other members for any issues with the final product
     * Refuse to collaborate in fixing remaining issues
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the doing postmortems as a team
+    * :heavy_exclamation_mark:
+    * Refuse to attend meetings associated with the product
 
 ### Conflicts
 
