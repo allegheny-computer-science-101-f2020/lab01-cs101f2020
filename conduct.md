@@ -244,3 +244,4 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 Janyl Jumadinova
 Bennett Westfall
+Gary Chen
