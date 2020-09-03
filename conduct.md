@@ -63,12 +63,13 @@
 
 * Acceptable Conduct (A):
   * Members shall
+    * Communicate regularly with the professor
     * :heavy_exclamation_mark: TODO: add items in the A category for communication
     in class (in-person and online), lab and practical sessions, and during team meetings
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for communication
+    * :heavy_exclamation_mark: TODO: add items in the U category for communication test
     in class (in-person and online), lab and practical sessions, and during team meetings
 
 ## Team Work
