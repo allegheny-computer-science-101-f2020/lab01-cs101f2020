@@ -59,7 +59,7 @@
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for deadlines
+    * :heavy_exclamation_mark: turn in assignments late without a valid excuse.
 
 ### Communication
 
