@@ -43,7 +43,10 @@
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: TODO: add items in the A category for attendance
+    * :heavy_exclamation_mark: Students must show up to class
+    * Students must show up on time
+    * Students may be a little late (10 mins max)
+    * Students have to be prepared for class when attending
 
 * Unacceptable Conduct (U):
   * Members shall not
