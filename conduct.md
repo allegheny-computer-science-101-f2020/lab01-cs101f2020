@@ -112,7 +112,7 @@ truly be all there.
     collaboration in lab and Slack
     * Disrupt working teams' effectiveness by lack of collaboration
     * Attempt to dominate a lab discussions
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the participation in a team
+    * Miss classes without a valid excuse
 
 ### Decisions
 
