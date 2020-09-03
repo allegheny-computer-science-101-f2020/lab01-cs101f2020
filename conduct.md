@@ -29,7 +29,9 @@
     * Allow peers to voice their opinions and questions
     * Read, understand, and follow all parts of this code of Conduct
     * Follow the honor code on all submitted work
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the overall conduct
+    * :heavy_exclamation_mark: Do all work on due dates
+    * Watch helpful videos to get through the work
+    * Ask for help when you need it
 
 * Unacceptable Conduct (U):
   * Members shall not
