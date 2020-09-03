@@ -138,7 +138,7 @@ how long a decision will take to implement.
     * Directly contradict the decision
     * Refuse to work on the decided option
     * Make decisions that would affect another team without first notifying them
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
+    * Made desisions that unfairly burden one group member - to be determined by Professor or technical leaders in event of dispute
 
 ### Postmortems
 
@@ -165,7 +165,6 @@ insight in how to improve in future projects.
     * Insult others while presenting criticism
     * Blame other members for any issues with the final product
     * Refuse to collaborate in fixing remaining issues
-    * :heavy_exclamation_mark:
     * Refuse to attend meetings associated with the product
 
 ### Conflicts
