@@ -37,7 +37,9 @@
     * Prevent peers from voicing their opinions and questions
     * Violate any part of this Code of Conduct
     * Violate the Allegheny honor code in regards to all submitted work
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category
+    * :heavy_exclamation_mark:  Disrespect professors or TAs
+    * Not take responsibility for catching up with missed classes or work
+    * Inappropriate conduct in class or on Zoom
 
 ### Attendance
 
