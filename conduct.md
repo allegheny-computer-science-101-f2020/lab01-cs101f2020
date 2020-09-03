@@ -55,7 +55,7 @@
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: TODO: add items in the A category for deadlines
+    * :heavy_exclamation_mark: TODO: add items in the U category for deadlines
 
 * Unacceptable Conduct (U):
   * Members shall not
