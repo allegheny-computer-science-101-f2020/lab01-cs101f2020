@@ -189,7 +189,8 @@ professional manner while keeping in mind the concerns of everyone involved.
     should be resolved
     * Be respectful and open-minded with everybody in the team when
     encountering a conflict
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for resolving conflicts as a team
+    * All parties are expected to be honest and respectful while their issue is being resolved
+    * All parties are expected to be transparent about he source of the conflict so that the technical advisors can resolve the problem.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -198,7 +199,7 @@ professional manner while keeping in mind the concerns of everyone involved.
     * Escalate existing conflicts that jeopardize the group project
     * Disregard or refuse to resolve an existing conflict
     that has been brought to their attention
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the resolving conflicts as a team
+    * Ignore the instructor's and/or other members' opinions and ideas when resolving conflicts
 
 ## Infractions
 
@@ -222,13 +223,16 @@ of 2020.
   * Level I: Any violation of a code of conduct rule is by default a Level I
   infraction. Technical leaders and instructor will be
   keeping track of infractions.
-  :heavy_exclamation_mark: TODO: Add an action to be taken for the level I infraction
+  Talk to instructor to determine the grade for that specific task.
   * Level II: Upon the accumulation of three level I infractions, project
   managers and the instructor will issue a formal level II infraction.
-  :heavy_exclamation_mark: TODO: Add an action to be taken for the level II infraction
+    * Talk to professor Jumadinova.
+    * Get a 0 on that assignment.  
   * Level III A Level III infraction will be given to an individual who has
   accumulated five Level I infractions.
-  :heavy_exclamation_mark: TODO: Add an action to be taken for the level III infraction
+    * Talk to the professor Jumadinova
+    * Get a 0 on that assignment
+    * reported to the Committee for cheating and other issues
 
 Class member(s) are encouraged to report any infractions in order to ensure
 a safe, inclusive and collegial environment.
@@ -239,4 +243,4 @@ Any decision made by the instructor for the given infraction(s) will be final.
 ## Names of Individuals who Agree to Adhere to the Guide
 
 Janyl Jumadinova
-:heavy_exclamation_mark: TODO: Add your name
+Bennett Westfall
