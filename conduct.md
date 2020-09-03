@@ -54,6 +54,8 @@
 * Acceptable Conduct (A):
   * Members shall
     * :heavy_exclamation_mark: Best effort to turn everything in by due date.
+    * :heavy_exclamation_mark: Talk to the professor ahead of time if problems arise
+    with meeting a due date.
 
 * Unacceptable Conduct (U):
   * Members shall not
