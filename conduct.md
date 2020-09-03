@@ -160,8 +160,7 @@ insight in how to improve in future projects.
     * Provide constructive feedback and propose solutions for issues faced
     * Receive feedback and discuss how it could be used to improve
     future projects and assignments
-    * Provide feedback on aspects of the project that were particularly effective and should
-    be used in the future   
+    * Provide feedback on aspects of the project that were particularly effective and should be used in the future
 
 * Unacceptable Conduct (U):
   * Members shall not
