@@ -208,7 +208,7 @@ professional manner while keeping in mind the concerns of everyone involved.
     * Escalate existing conflicts that jeopardize the group project
     * Disregard or refuse to resolve an existing conflict
     that has been brought to their attention
-    * Talk about classmates behind others back
+    * Talk about classmates behind their back
 
 ## Infractions
 
