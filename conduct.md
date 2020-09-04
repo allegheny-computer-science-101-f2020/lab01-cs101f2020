@@ -43,11 +43,13 @@
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: TODO: add items in the A category for attendance
+    * :heavy_exclamation_mark: Shall attend in person class if they are showing no COVID-19 symptoms signs
+    * :heavy_exclamation_mark: Effectively communicate to our professor about if you are not able to attend class 
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for attendance
+    * :heavy_exclamation_mark: Coming to class showing COVID-19 symptoms
+    * :heavy_exclamation_mark: Expect to get participation credit for not showing up to class without a valid excuse
 
 ### Deadlines
 
@@ -66,12 +68,14 @@
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: TODO: add items in the A category for communication
+    * :heavy_exclamation_mark: Utilizing slack or email to communicate with our professor about a particular issue.
+    * :heavy_exclamation_mark: Be respectful when communicating with the professor
     in class (in-person and online), lab and practical sessions, and during team meetings
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for communication
+    * :heavy_exclamation_mark: Wait until the last possible moment to explain to the professor about an issue that could have been resolved long ago
+    * :heavy_exclamation_mark: Spam the professor with a boat load of emails and slack messages
     in class (in-person and online), lab and practical sessions, and during team meetings
 
 ## Team Work
@@ -242,4 +246,4 @@ Any decision made by the instructor for the given infraction(s) will be final.
 ## Names of Individuals who Agree to Adhere to the Guide
 
 Janyl Jumadinova
-:heavy_exclamation_mark: Annaliese Stone
+:heavy_exclamation_mark: Annaliese Stone, Lex Caldwell
