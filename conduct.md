@@ -65,10 +65,17 @@
   * Members shall
     * Communicate regularly with the professor
     * Communicate with TL's when necessary
+    * Respond to Slack messages and emails in a timely manner
+    * Respect personal boundaries regarding personal space, preferred pronouns, etc
+    * Address concerns and areas of disagreement in a respectful manner
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for communication test
+    * Show disrespect when a team member sets a personal boundary
+    * Speak condescendingly to a team member, even if they addressed you rudely first
+    * Speaking out of turn/over someone who is already speaking
+    * Show passive-aggressive behavior to team members they disagree with
+    * :heavy_exclamation_mark: TODO: add items in the U category for communication
     in class (in-person and online), lab and practical sessions, and during team meetings
 
 ## Team Work
@@ -89,6 +96,7 @@ truly be all there.
 
 * Acceptable Conduct (A):
   * Members shall
+    * Work to actively address group members in a respectful manner
     * Respond quickly in Slack to clarify confusing issues or assist other colleagues
     * Value and consider everyone’s opinion
     * Be willing to meetup and work outside of class
@@ -96,6 +104,7 @@ truly be all there.
     * Demonstrate continuous engagement with tasks
     * Be open minded
     * Raise a disagreeing opinion in a respectful manner
+    * Approach the professor for mediation if another member shows unacceptable conduct
     * :heavy_exclamation_mark: TODO: add any additional items in the A category for the participation in a team
 
 * Unacceptable Conduct (U):
@@ -121,11 +130,12 @@ how long a decision will take to implement.
 * Acceptable Conduct (A):
   * Members shall
     * Take into account everyone's input in the decision making process
-    * Stay flexible and be willing to change if it would be productive
+    * Ensure that each member whom the decision will affect is aware of the decision being made
+    * Stay flexible and be willing to compromise if it would be productive
     * Report errors or bugs to the appropriate team members
     * Record what choice was made and when it was implemented
     * Defer to the Professor or student technical leaders when unsure
-    * Distribute tasks to all team members
+    * Fairly distribute tasks to all team members
     * A new decision should be made when a previous decision cannot be implemented
     * When a choice is disputed, use Github issue tracker and let team members
       share their opinion
@@ -138,6 +148,7 @@ how long a decision will take to implement.
     * Directly contradict the decision
     * Refuse to work on the decided option
     * Make decisions that would affect another team without first notifying them
+    * Make decisions that will affect the whole group with only certain group members (ie, excluding any group member from the decision-making process)
     * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
 
 ### Postmortems
