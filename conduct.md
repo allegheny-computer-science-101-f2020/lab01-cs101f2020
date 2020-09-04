@@ -29,7 +29,7 @@
     * Allow peers to voice their opinions and questions
     * Read, understand, and follow all parts of this code of Conduct
     * Follow the honor code on all submitted work
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the overall conduct
+    * :heavy_exclamation_mark: Engage respectfully with peers’ ideas and questions.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -37,7 +37,7 @@
     * Prevent peers from voicing their opinions and questions
     * Violate any part of this Code of Conduct
     * Violate the Allegheny honor code in regards to all submitted work
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category
+    * :heavy_exclamation_mark: Fail to complete work in an honest and respectful manner.
 
 ### Attendance
 
@@ -143,7 +143,7 @@ how long a decision will take to implement.
     * Directly contradict the decision
     * Refuse to work on the decided option
     * Make decisions that would affect another team without first notifying them
-    * Make decisions carelessly or without thought 
+    * Make decisions carelessly or without thought
 
 ### Postmortems
 
@@ -225,13 +225,13 @@ of 2020.
   * Level I: Any violation of a code of conduct rule is by default a Level I
   infraction. Technical leaders and instructor will be
   keeping track of infractions.
-  :heavy_exclamation_mark: TODO: Add an action to be taken for the level I infraction
+  :heavy_exclamation_mark: A warning will be issued to the student accused of violating the code of conduct. Work completed involving the infraction will have to be redone. If another student was the victim as a result of the code’s infraction, an apology must be given.
   * Level II: Upon the accumulation of three level I infractions, project
   managers and the instructor will issue a formal level II infraction.
-  :heavy_exclamation_mark: TODO: Add an action to be taken for the level II infraction
+  :heavy_exclamation_mark: The student will lose any points or credit that would have been received from work completed involving the infractions. 
   * Level III A Level III infraction will be given to an individual who has
   accumulated five Level I infractions.
-  :heavy_exclamation_mark: TODO: Add an action to be taken for the level III infraction
+  :heavy_exclamation_mark: The class instructor will determine the severity of the infractions and develop a fair means of action, either against the student’s grade in the class, or that the student must accomplish to make amends for their infractions of the code of conduct.
 
 Class member(s) are encouraged to report any infractions in order to ensure
 a safe, inclusive and collegial environment.
@@ -242,4 +242,4 @@ Any decision made by the instructor for the given infraction(s) will be final.
 ## Names of Individuals who Agree to Adhere to the Guide
 
 Janyl Jumadinova
-:heavy_exclamation_mark: TODO: Add your name
+:heavy_exclamation_mark: Annaliese Stone
