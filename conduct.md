@@ -176,7 +176,6 @@ insight in how to improve in future projects.
     * Refuse to collaborate in fixing remaining issues
     * Refuse to help complete assignment outside of class
 
-
 ### Conflicts
 
 It is inevitable that conflicts will arise when working as a large group.
