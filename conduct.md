@@ -44,7 +44,7 @@
 * Acceptable Conduct (A):
   * Members shall
     * :heavy_exclamation_mark: Shall attend in person class if they are showing no COVID-19 symptoms signs
-    * :heavy_exclamation_mark: Effectively communicate to our professor about if you are not able to attend class 
+    * :heavy_exclamation_mark: Effectively communicate to our professor about if you are not able to attend class
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -166,14 +166,16 @@ insight in how to improve in future projects.
     * Provide constructive feedback and propose solutions for issues faced
     * Receive feedback and discuss how it could be used to improve
     future projects and assignments
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the doing postmortems as a team
+    * Adhere to deadlines set by the team.
+    * Help other team members who get stuck.
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Insult others while presenting criticism
     * Blame other members for any issues with the final product
     * Refuse to collaborate in fixing remaining issues
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the doing postmortems as a team
+    * Refuse to help complete assignment outside of class
+
 
 ### Conflicts
 
@@ -196,7 +198,8 @@ professional manner while keeping in mind the concerns of everyone involved.
     should be resolved
     * Be respectful and open-minded with everybody in the team when
     encountering a conflict
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for resolving conflicts as a team
+    * Remain professional even when working with someone you do not get along with
+    * Always show respect
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -205,7 +208,7 @@ professional manner while keeping in mind the concerns of everyone involved.
     * Escalate existing conflicts that jeopardize the group project
     * Disregard or refuse to resolve an existing conflict
     that has been brought to their attention
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the resolving conflicts as a team
+    * Talk about classmates behind others back
 
 ## Infractions
 
@@ -232,7 +235,7 @@ of 2020.
   :heavy_exclamation_mark: A warning will be issued to the student accused of violating the code of conduct. Work completed involving the infraction will have to be redone. If another student was the victim as a result of the code’s infraction, an apology must be given.
   * Level II: Upon the accumulation of three level I infractions, project
   managers and the instructor will issue a formal level II infraction.
-  :heavy_exclamation_mark: The student will lose any points or credit that would have been received from work completed involving the infractions. 
+  :heavy_exclamation_mark: The student will lose any points or credit that would have been received from work completed involving the infractions.
   * Level III A Level III infraction will be given to an individual who has
   accumulated five Level I infractions.
   :heavy_exclamation_mark: The class instructor will determine the severity of the infractions and develop a fair means of action, either against the student’s grade in the class, or that the student must accomplish to make amends for their infractions of the code of conduct.
