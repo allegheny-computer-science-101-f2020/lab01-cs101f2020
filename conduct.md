@@ -29,7 +29,7 @@
     * Allow peers to voice their opinions and questions
     * Read, understand, and follow all parts of this code of Conduct
     * Follow the honor code on all submitted work
-    * :heavy_exclamation_mark: Engage respectfully with peers’ ideas and questions.
+    * Engage respectfully with peers’ ideas and questions.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -37,45 +37,45 @@
     * Prevent peers from voicing their opinions and questions
     * Violate any part of this Code of Conduct
     * Violate the Allegheny honor code in regards to all submitted work
-    * :heavy_exclamation_mark: Fail to complete work in an honest and respectful manner.
+    * Fail to complete work in an honest and respectful manner.
 
 ### Attendance
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: Shall attend in person class if they are showing no COVID-19 symptoms signs
-    * :heavy_exclamation_mark: Effectively communicate to our professor about if you are not able to attend class
+    * Attend in-person class if they are showing no COVID-19 symptoms signs
+    * Effectively communicate to the professor if they are not able to attend class
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: Coming to class showing COVID-19 symptoms
-    * :heavy_exclamation_mark: Expect to get participation credit for not showing up to class without a valid excuse
+    * Come to class showing COVID-19 symptoms
+    * Expect to receive participation credit for not showing up to class without a valid excuse
 
 ### Deadlines
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: Best effort to turn everything in by due date.
-    * :heavy_exclamation_mark: Talk to the professor ahead of time if problems arise
+    * Give their best effort to turn everything in by due date.
+    * Talk to the professor ahead of time if problems arise
     with meeting a due date.
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: turn in assignments late without a valid excuse.
-    * :heavy_exclamation_mark: Not working with your team's deadline.
+    * Turn in assignments late without a valid excuse.
+    * Ignore their team's deadlines.
 
 ### Communication
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: Utilizing slack or email to communicate with our professor about a particular issue.
-    * :heavy_exclamation_mark: Be respectful when communicating with the professor
+    * Utilize Slack or email to communicate with the professor about a particular issue.
+    * Be respectful when communicating with the professor
     in class (in-person and online), lab and practical sessions, and during team meetings
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: Wait until the last possible moment to explain to the professor about an issue that could have been resolved long ago
-    * :heavy_exclamation_mark: Spam the professor with a boat load of emails and slack messages
+    * Wait until the last possible moment to explain to the professor about an issue that could have been resolved long ago
+    * Spam the professor with a boat load of emails and slack messages
     in class (in-person and online), lab and practical sessions, and during team meetings
 
 ## Team Work
@@ -136,7 +136,7 @@ how long a decision will take to implement.
     * Defer to the Professor or student technical leaders when unsure
     * Distribute tasks to all team members
     * A new decision should be made when a previous decision cannot be implemented
-    * When a choice is disputed, use Github issue tracker and let team members
+    * When a choice is disputed, use GitHub issue tracker and let team members
       share their opinion
     * Refer to class notes and the book when unsure
 
@@ -231,13 +231,13 @@ of 2020.
   * Level I: Any violation of a code of conduct rule is by default a Level I
   infraction. Technical leaders and instructor will be
   keeping track of infractions.
-  :heavy_exclamation_mark: A warning will be issued to the student accused of violating the code of conduct. Work completed involving the infraction will have to be redone. If another student was the victim as a result of the code’s infraction, an apology must be given.
+  * A warning will be issued to the student accused of violating the code of conduct. Work completed involving the infraction will have to be redone. If another student was the victim as a result of the code’s infraction, an apology must be given.
   * Level II: Upon the accumulation of three level I infractions, project
   managers and the instructor will issue a formal level II infraction.
-  :heavy_exclamation_mark: The student will lose any points or credit that would have been received from work completed involving the infractions.
+  * The student will lose any points or credit that would have been received from work completed involving the infractions.
   * Level III A Level III infraction will be given to an individual who has
   accumulated five Level I infractions.
-  :heavy_exclamation_mark: The class instructor will determine the severity of the infractions and develop a fair means of action, either against the student’s grade in the class, or that the student must accomplish to make amends for their infractions of the code of conduct.
+  * The class instructor will determine the severity of the infractions and develop a fair means of action, either against the student’s grade in the class, or that the student must accomplish to make amends for their infractions of the code of conduct.
 
 Class member(s) are encouraged to report any infractions in order to ensure
 a safe, inclusive and collegial environment.
@@ -248,4 +248,4 @@ Any decision made by the instructor for the given infraction(s) will be final.
 ## Names of Individuals who Agree to Adhere to the Guide
 
 Janyl Jumadinova
-:heavy_exclamation_mark: Annaliese Stone, Lex Caldwell, Mica Hanish
+* Annaliese Stone, Lex Caldwell, Mica Hanish, Kaleigh White
