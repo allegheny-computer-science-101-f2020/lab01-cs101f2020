@@ -248,4 +248,5 @@ Any decision made by the instructor for the given infraction(s) will be final.
 ## Names of Individuals who Agree to Adhere to the Guide
 
 Janyl Jumadinova
-* Annaliese Stone, Lex Caldwell, Mica Hanish, Kaleigh White
+
+* Annaliese Stone, Lex Caldwell, Mica Hanish, Kaleigh White, Abigail Waryanka
