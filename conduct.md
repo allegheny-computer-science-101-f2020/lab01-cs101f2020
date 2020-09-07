@@ -65,13 +65,13 @@
   * Members shall
     * :heavy_exclamation_mark: TODO: add items in the A category for communication
     in class (in-person and online), lab and practical sessions, and during team meetings
-    * Only recover necessary information from data subjects.
+    * Only recover necessary information from data subjects
 
 * Unacceptable Conduct (U):
   * Members shall not
     * :heavy_exclamation_mark: TODO: add items in the U category for communication
     in class (in-person and online), lab and practical sessions, and during team meetings
-    * Trade secrets or confidential information entrusted to them.
+    * Trade secrets or confidential information entrusted to them
 
 ## Team Work
 
