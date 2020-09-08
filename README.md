@@ -1,6 +1,6 @@
 # :crocodile: Developing Code of Conduct for CMPSC 101 Fall 2020: LAB 01 Assignment
 
-## DUE: September 10th by 3:00pm
+## DUE: September 14th by 9:10am
 
 [![Actions Status](../../workflows/linting/badge.svg)](../../actions)
 
