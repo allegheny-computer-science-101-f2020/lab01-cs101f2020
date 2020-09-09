@@ -63,11 +63,9 @@
 
 * Acceptable Conduct (A):
   * Members shall
-<<<<<<< HEAD
     * :heavy_exclamation_mark: TODO: add items in the A category for communication
     in class (in-person and online), lab and practical sessions, and during team meetings
-    * Only recover necessary information from data subjects. 
-=======
+    * Only recover necessary information from data subjects.
     * Communicate regularly with the professor
     * Communicate with TL's when necessary
     * Respond to Slack messages and emails in a timely manner
@@ -77,12 +75,12 @@
 
 * Unacceptable Conduct (U):
   * Members shall not
+    * :heavy_exclamation_mark: TODO: add items in the U category for communication
+    in class (in-person and online), lab and practical sessions, and during team meetings
     * Show disrespect when a team member sets a personal boundary
     * Speak condescendingly to a team member, even if they addressed you rudely first
     * Speaking out of turn/over someone who is already speaking
     * Show passive-aggressive behavior to team members they disagree with
-    * :heavy_exclamation_mark: TODO: add items in the U category for communication
-    in class (in-person and online), lab and practical sessions, and during team meetings
     * Trade secrets or confidential information entrusted to them without permission of the subjects.
 
 ## Team Work
