@@ -30,10 +30,11 @@
     * Read, understand, and follow all parts of this code of Conduct
     * Follow the honor code on all submitted work
     * Engage respectfully with peers’ ideas and questions.
+    * Contribute to a positive working environment
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * Disrespect peers because of their race or gender
+    * Disrespect peers because of their race, gender identity, or sexuality
     * Prevent peers from voicing their opinions and questions
     * Violate any part of this Code of Conduct
     * Violate the Allegheny honor code in regards to all submitted work
@@ -253,4 +254,4 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 Janyl Jumadinova
 
-* Annaliese Stone, Lex Caldwell, Mica Hanish, Kaleigh White, Abigail Waryanka
+* Annaliese Stone, Lex Caldwell, Mica Hanish, Kaleigh White, Abigail Waryanka, Alexander Le Floch, Dylan Holland, Jacob McCloskey, Adriana Solis
