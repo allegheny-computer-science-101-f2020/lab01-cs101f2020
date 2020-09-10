@@ -29,7 +29,7 @@
     * Allow peers to voice their opinions and questions
     * Read, understand, and follow all parts of this code of Conduct
     * Follow the honor code on all submitted work
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the overall conduct
+    * Engage respectfully with peers’ ideas and questions.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -37,40 +37,45 @@
     * Prevent peers from voicing their opinions and questions
     * Violate any part of this Code of Conduct
     * Violate the Allegheny honor code in regards to all submitted work
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category
+    * Fail to complete work in an honest and respectful manner.
 
 ### Attendance
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: Students must show up to class
-    * Students must show up on time
-    * Students may be a little late (10 mins max)
-    * Students have to be prepared for class when attending
+    * Attend in-person class if they are showing no COVID-19 symptoms signs
+    * Effectively communicate to the professor if they are not able to attend class
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: miss class without contacting and giving reason for absence.
+    * Come to class showing COVID-19 symptoms
+    * Expect to receive participation credit for not showing up to class without a valid excuse
+
 ### Deadlines
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: TODO: add items in the A category for deadlines
+    * Give their best effort to turn everything in by due date.
+    * Talk to the professor ahead of time if problems arise
+    with meeting a due date.
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for deadlines
+    * Turn in assignments late without a valid excuse.
+    * Ignore their team's deadlines.
 
 ### Communication
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: TODO: add items in the A category for communication
+    * Utilize Slack or email to communicate with the professor about a particular issue.
+    * Be respectful when communicating with the professor
     in class (in-person and online), lab and practical sessions, and during team meetings
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for communication
+    * Wait until the last possible moment to explain to the professor about an issue that could have been resolved long ago
+    * Spam the professor with a boat load of emails and slack messages
     in class (in-person and online), lab and practical sessions, and during team meetings
 
 ## Team Work
@@ -98,7 +103,9 @@ truly be all there.
     * Demonstrate continuous engagement with tasks
     * Be open minded
     * Raise a disagreeing opinion in a respectful manner
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the participation in a team
+    * Be a contributing member in lab groups
+    * Attend class sessions and be engaged during class
+    * Be willing to help other classmates with problems they may have
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -109,7 +116,7 @@ truly be all there.
     collaboration in lab and Slack
     * Disrupt working teams' effectiveness by lack of collaboration
     * Attempt to dominate a lab discussions
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the participation in a team
+    * Miss classes without a valid excuse
 
 ### Decisions
 
@@ -129,9 +136,9 @@ how long a decision will take to implement.
     * Defer to the Professor or student technical leaders when unsure
     * Distribute tasks to all team members
     * A new decision should be made when a previous decision cannot be implemented
-    * When a choice is disputed, use Github issue tracker and let team members
+    * When a choice is disputed, use GitHub issue tracker and let team members
       share their opinion
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team
+    * Refer to class notes and the book when unsure
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -140,7 +147,7 @@ how long a decision will take to implement.
     * Directly contradict the decision
     * Refuse to work on the decided option
     * Make decisions that would affect another team without first notifying them
-    * Made desisions that unfairly burden one group member - to be determined by Professor or technical leaders in event of dispute
+    * Make decisions carelessly or without thought
 
 ### Postmortems
 
@@ -159,15 +166,15 @@ insight in how to improve in future projects.
     * Provide constructive feedback and propose solutions for issues faced
     * Receive feedback and discuss how it could be used to improve
     future projects and assignments
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the doing postmortems as a team
+    * Adhere to deadlines set by the team.
+    * Help other team members who get stuck.
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Insult others while presenting criticism
     * Blame other members for any issues with the final product
     * Refuse to collaborate in fixing remaining issues
-    * :heavy_exclamation_mark:
-    * Refuse to attend meetings associated with the product
+    * Refuse to help complete assignment outside of class
 
 ### Conflicts
 
@@ -190,8 +197,8 @@ professional manner while keeping in mind the concerns of everyone involved.
     should be resolved
     * Be respectful and open-minded with everybody in the team when
     encountering a conflict
-    * All parties are expected to be honest and respectful while their issue is being resolved
-    * All parties are expected to be transparent about he source of the conflict so that the technical advisors can resolve the problem.
+    * Remain professional even when working with someone you do not get along with
+    * Always show respect
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -200,7 +207,7 @@ professional manner while keeping in mind the concerns of everyone involved.
     * Escalate existing conflicts that jeopardize the group project
     * Disregard or refuse to resolve an existing conflict
     that has been brought to their attention
-    * Ignore the instructor's and/or other members' opinions and ideas when resolving conflicts
+    * Talk about classmates behind their back
 
 ## Infractions
 
@@ -224,16 +231,13 @@ of 2020.
   * Level I: Any violation of a code of conduct rule is by default a Level I
   infraction. Technical leaders and instructor will be
   keeping track of infractions.
-  Talk to instructor to determine the grade for that specific task.
+  * A warning will be issued to the student accused of violating the code of conduct. Work completed involving the infraction will have to be redone. If another student was the victim as a result of the code’s infraction, an apology must be given.
   * Level II: Upon the accumulation of three level I infractions, project
   managers and the instructor will issue a formal level II infraction.
-    * Talk to professor Jumadinova.
-    * Get a 0 on that assignment.
+  * The student will lose any points or credit that would have been received from work completed involving the infractions.
   * Level III A Level III infraction will be given to an individual who has
   accumulated five Level I infractions.
-    * Talk to the professor Jumadinova
-    * Get a 0 on that assignment
-    * reported to the Committee for cheating and other issues
+  * The class instructor will determine the severity of the infractions and develop a fair means of action, either against the student’s grade in the class, or that the student must accomplish to make amends for their infractions of the code of conduct.
 
 Class member(s) are encouraged to report any infractions in order to ensure
 a safe, inclusive and collegial environment.
@@ -244,6 +248,5 @@ Any decision made by the instructor for the given infraction(s) will be final.
 ## Names of Individuals who Agree to Adhere to the Guide
 
 Janyl Jumadinova
-Bennett Westfall
-Gary Chen
-Michael Ceccarelli
+
+* Annaliese Stone, Lex Caldwell, Mica Hanish, Kaleigh White, Abigail Waryanka
