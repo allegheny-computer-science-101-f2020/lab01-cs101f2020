@@ -117,6 +117,7 @@ truly be all there.
     * Disrupt working teams' effectiveness by lack of collaboration
     * Attempt to dominate a lab discussions
     * Miss classes without a valid excuse
+    * Refuse assistance from TLs or peers
 
 ### Decisions
 
