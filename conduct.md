@@ -235,7 +235,7 @@ of 2020.
   * Level II: Upon the accumulation of three level I infractions, project
   managers and the instructor will issue a formal level II infraction.
   * The student will lose any points or credit that would have been received from work completed involving the infractions.
-  * Level III A Level III infraction will be given to an individual who has
+  * Level III: A Level III infraction will be given to an individual who has
   accumulated five Level I infractions.
   * The class instructor will determine the severity of the infractions and develop a fair means of action, either against the student’s grade in the class, or that the student must accomplish to make amends for their infractions of the code of conduct.
 
