@@ -29,7 +29,7 @@
     * Allow peers to voice their opinions and questions
     * Read, understand, and follow all parts of this code of Conduct
     * Follow the honor code on all submitted work
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the overall conduct
+    * Engage respectfully with peers’ ideas and questions.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -37,27 +37,32 @@
     * Prevent peers from voicing their opinions and questions
     * Violate any part of this Code of Conduct
     * Violate the Allegheny honor code in regards to all submitted work
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category
+    * Fail to complete work in an honest and respectful manner.
 
 ### Attendance
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: TODO: add items in the A category for attendance
+    * Attend in-person class if they are showing no COVID-19 symptoms signs
+    * Effectively communicate to the professor if they are not able to attend class
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for attendance
+    * Come to class showing COVID-19 symptoms
+    * Expect to receive participation credit for not showing up to class without a valid excuse
 
 ### Deadlines
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: TODO: add items in the A category for deadlines
+    * Give their best effort to turn everything in by due date.
+    * Talk to the professor ahead of time if problems arise
+    with meeting a due date.
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for deadlines
+    * Turn in assignments late without a valid excuse.
+    * Ignore their team's deadlines.
 
 ### Communication
 
@@ -106,8 +111,11 @@ truly be all there.
     * Demonstrate continuous engagement with tasks
     * Be open minded
     * Raise a disagreeing opinion in a respectful manner
+<<<<<<< HEAD
     * Approach the professor for mediation if another member shows unacceptable conduct
 
+=======
+>>>>>>> b22954fbbc49520e74d473fd38f69e5b802dd821
 * Unacceptable Conduct (U):
   * Members shall not
     * Demonstrate disrespect for team members
@@ -137,9 +145,9 @@ how long a decision will take to implement.
     * Defer to the Professor or student technical leaders when unsure
     * Fairly distribute tasks to all team members
     * A new decision should be made when a previous decision cannot be implemented
-    * When a choice is disputed, use Github issue tracker and let team members
+    * When a choice is disputed, use GitHub issue tracker and let team members
       share their opinion
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team
+    * Refer to class notes and the book when unsure
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -149,7 +157,6 @@ how long a decision will take to implement.
     * Refuse to work on the decided option
     * Make decisions that would affect another team without first notifying them
     * Make decisions that will affect the whole group with only certain group members (ie, excluding any group member from the decision-making process)
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
 
 ### Postmortems
 
@@ -168,14 +175,15 @@ insight in how to improve in future projects.
     * Provide constructive feedback and propose solutions for issues faced
     * Receive feedback and discuss how it could be used to improve
     future projects and assignments
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the doing postmortems as a team
+    * Adhere to deadlines set by the team.
+    * Help other team members who get stuck.
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Insult others while presenting criticism
     * Blame other members for any issues with the final product
     * Refuse to collaborate in fixing remaining issues
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the doing postmortems as a team
+    * Refuse to help complete assignment outside of class
 
 ### Conflicts
 
@@ -198,7 +206,8 @@ professional manner while keeping in mind the concerns of everyone involved.
     should be resolved
     * Be respectful and open-minded with everybody in the team when
     encountering a conflict
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for resolving conflicts as a team
+    * Remain professional even when working with someone you do not get along with
+    * Always show respect
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -207,7 +216,7 @@ professional manner while keeping in mind the concerns of everyone involved.
     * Escalate existing conflicts that jeopardize the group project
     * Disregard or refuse to resolve an existing conflict
     that has been brought to their attention
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the resolving conflicts as a team
+    * Talk about classmates behind their back
 
 ## Infractions
 
@@ -231,13 +240,13 @@ of 2020.
   * Level I: Any violation of a code of conduct rule is by default a Level I
   infraction. Technical leaders and instructor will be
   keeping track of infractions.
-  :heavy_exclamation_mark: TODO: Add an action to be taken for the level I infraction
+    * A warning will be issued to the student accused of violating the code of conduct. Work completed involving the infraction will have to be redone. If another student was the victim as a result of the code’s infraction, an apology must be given.
   * Level II: Upon the accumulation of three level I infractions, project
   managers and the instructor will issue a formal level II infraction.
-  :heavy_exclamation_mark: TODO: Add an action to be taken for the level II infraction
+  Talk to the instructor to determine what grade and what level of punishment is necessary.
   * Level III A Level III infraction will be given to an individual who has
   accumulated five Level I infractions.
-  :heavy_exclamation_mark: TODO: Add an action to be taken for the level III infraction
+  Automatic 0 on the assignment, instructor will decide how far punishment will go.
 
 Class member(s) are encouraged to report any infractions in order to ensure
 a safe, inclusive and collegial environment.
@@ -247,5 +256,8 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-Janyl Jumadinova
-:heavy_exclamation_mark: TODO: Add your name
+* Janyl Jumadinova
+* Bennett Westfall
+* Michael Ceccarelli
+* Truong Son Nguyen
+* Gary Chen
