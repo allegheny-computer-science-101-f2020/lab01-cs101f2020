@@ -85,16 +85,15 @@
     * Show passive-aggressive behavior to team members they disagree with
     * Trade secrets or confidential information entrusted to them without permission of the subjects.
     * Use disrespectful language
-    * Utilize Slack or email to communicate with the professor about a particular issue.
-    * Be respectful when communicating with the professor in class (in-person and online), lab and practical sessions, and during team meetings
-    * Wait until the last possible moment to explain to the professor about an issue that could have been resolved long ago
-    * Spam the professor with a boat load of emails and slack messages in class (in-person and online), lab and practical sessions, and during team meetings
 
 ## Team Work
 
 Some of the class activities and lab projects will require team collaboration.
 This section of the Code of Conduct will provide guidance on effective and
 inclusive team work.
+
+* Acceptable Conduct (A)
+  * Be nice to your team members
 
 ### Participation
 
@@ -116,6 +115,7 @@ truly be all there.
     * Demonstrate continuous engagement with tasks
     * Be open minded
     * Raise a disagreeing opinion in a respectful manner
+    * Approach the professor for mediation if another member shows unacceptable conduct
     * Be a contributing member in lab groups
     * Attend class sessions and be engaged during class
     * Be willing to help other classmates with problems they may have
