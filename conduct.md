@@ -63,7 +63,6 @@
 
 * Acceptable Conduct (A):
   * Members shall
-<<<<<<< HEAD
     * Only recover necessary information from data subjects.
     * Communicate regularly with the professor
     * Communicate with TL's when necessary
@@ -71,31 +70,12 @@
 
 * Unacceptable Conduct (U):
   * Members shall not
-=======
-    * :heavy_exclamation_mark: TODO: add items in the A category for communication
-    in class (in-person and online), lab and practical sessions, and during team meetings
-    * Only recover necessary information from data subjects.
-    * Communicate regularly with the professor
-    * Communicate with TL's when necessary
-    * Respond to Slack messages and emails in a timely manner
-    * Respect personal boundaries regarding personal space, preferred pronouns, etc
-    * Address concerns and areas of disagreement in a respectful manner
->>>>>>> 90089f7a4a867cd72364700439908d3c8d8431d3
-
-* Unacceptable Conduct (U):
-  * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for communication
-    in class (in-person and online), lab and practical sessions, and during team meetings
->>>>>>> c20915ef5e6f38c06af6c392caa7f1328541b754
     * Show disrespect when a team member sets a personal boundary
     * Speak condescendingly to a team member, even if they addressed you rudely first
     * Speaking out of turn/over someone who is already speaking
     * Show passive-aggressive behavior to team members they disagree with
     * Trade secrets or confidential information entrusted to them without permission of the subjects.
-<<<<<<< HEAD
     * Use disrespectful language
-=======
->>>>>>> c20915ef5e6f38c06af6c392caa7f1328541b754
 
 ## Team Work
 
@@ -124,7 +104,6 @@ truly be all there.
     * Be open minded
     * Raise a disagreeing opinion in a respectful manner
     * Approach the professor for mediation if another member shows unacceptable conduct
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the participation in a team
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -135,7 +114,6 @@ truly be all there.
     collaboration in lab and Slack
     * Disrupt working teams' effectiveness by lack of collaboration
     * Attempt to dominate a lab discussions
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the participation in a team
 
 ### Decisions
 
