@@ -67,6 +67,8 @@
     * Communicate regularly with the professor
     * Communicate with TL's when necessary
     * Communicate with other peers when necessary
+    * Communicate with peers outside of class
+    * Use communication methods other than slack
 
 * Unacceptable Conduct (U):
   * Members shall not
