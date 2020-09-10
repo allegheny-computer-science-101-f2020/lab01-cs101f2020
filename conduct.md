@@ -91,7 +91,9 @@
 Some of the class activities and lab projects will require team collaboration.
 This section of the Code of Conduct will provide guidance on effective and
 inclusive team work.
-  * be nice to your team members
+
+  * Acceptable Conduct (A)
+    * be nice to your team members
 
 ### Participation
 
