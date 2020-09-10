@@ -228,7 +228,7 @@ of 2020.
   * Level II: Upon the accumulation of three level I infractions, project
   managers and the instructor will issue a formal level II infraction.
     * Talk to professor Jumadinova.
-    * Get a 0 on that assignment.  
+    * Get a 0 on that assignment.
   * Level III A Level III infraction will be given to an individual who has
   accumulated five Level I infractions.
     * Talk to the professor Jumadinova
