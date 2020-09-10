@@ -231,13 +231,13 @@ of 2020.
   * Level I: Any violation of a code of conduct rule is by default a Level I
   infraction. Technical leaders and instructor will be
   keeping track of infractions.
-  * A warning will be issued to the student accused of violating the code of conduct. Work completed involving the infraction will have to be redone. If another student was the victim as a result of the code’s infraction, an apology must be given.
+    * A warning will be issued to the student accused of violating the code of conduct. Work completed involving the infraction will have to be redone. If another student was the victim as a result of the code’s infraction, an apology must be given.
   * Level II: Upon the accumulation of three level I infractions, project
   managers and the instructor will issue a formal level II infraction.
-  * The student will lose any points or credit that would have been received from work completed involving the infractions.
+    * The student will lose any points or credit that would have been received from work completed involving the infractions.
   * Level III: A Level III infraction will be given to an individual who has
   accumulated five Level I infractions.
-  * The class instructor will determine the severity of the infractions and develop a fair means of action, either against the student’s grade in the class, or that the student must accomplish to make amends for their infractions of the code of conduct.
+    * The class instructor will determine the severity of the infractions and develop a fair means of action, either against the student’s grade in the class, or that the student must accomplish to make amends for their infractions of the code of conduct.
 
 Class member(s) are encouraged to report any infractions in order to ensure
 a safe, inclusive and collegial environment.
