@@ -240,3 +240,4 @@ Any decision made by the instructor for the given infraction(s) will be final.
 Janyl Jumadinova
 Bennett Westfall
 Michael Ceccarelli
+Truong Son Nguyen
