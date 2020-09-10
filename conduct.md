@@ -65,9 +65,13 @@
   * Members shall
     * Communicate regularly with the professor
     * Communicate with TL's when necessary
+    * Communicate with other peers when necessary
 
 * Unacceptable Conduct (U):
   * Members shall not
+    * Ignore the professor
+    * ignore the TL's
+    * Rude or otherwise disrespectful words towards Professors, TL's, and Classmates
     * :heavy_exclamation_mark: TODO: add items in the U category for communication test
     in class (in-person and online), lab and practical sessions, and during team meetings
 
