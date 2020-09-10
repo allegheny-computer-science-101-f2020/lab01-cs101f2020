@@ -70,15 +70,25 @@
 
 * Acceptable Conduct (A):
   * Members shall
-    * Utilize Slack or email to communicate with the professor about a particular issue.
-    * Be respectful when communicating with the professor
-    in class (in-person and online), lab and practical sessions, and during team meetings
+    * Only recover necessary information from data subjects.
+    * Communicate regularly with the professor
+    * Communicate with TL's when necessary
+    * Communicate with other peers when necessary
+    * Communicate with peers outside of class
+    * Use communication methods other than slack
 
 * Unacceptable Conduct (U):
   * Members shall not
+    * Show disrespect when a team member sets a personal boundary
+    * Speak condescendingly to a team member, even if they addressed you rudely first
+    * Speaking out of turn/over someone who is already speaking
+    * Show passive-aggressive behavior to team members they disagree with
+    * Trade secrets or confidential information entrusted to them without permission of the subjects.
+    * Use disrespectful language
+    * Utilize Slack or email to communicate with the professor about a particular issue.
+    * Be respectful when communicating with the professor in class (in-person and online), lab and practical sessions, and during team meetings
     * Wait until the last possible moment to explain to the professor about an issue that could have been resolved long ago
-    * Spam the professor with a boat load of emails and slack messages
-    in class (in-person and online), lab and practical sessions, and during team meetings
+    * Spam the professor with a boat load of emails and slack messages in class (in-person and online), lab and practical sessions, and during team meetings
 
 ## Team Work
 
@@ -98,6 +108,7 @@ truly be all there.
 
 * Acceptable Conduct (A):
   * Members shall
+    * Work to actively address group members in a respectful manner
     * Respond quickly in Slack to clarify confusing issues or assist other colleagues
     * Value and consider everyone’s opinion
     * Be willing to meetup and work outside of class
@@ -119,7 +130,6 @@ truly be all there.
     collaboration in lab and Slack
     * Disrupt working teams' effectiveness by lack of collaboration
     * Attempt to dominate a lab discussions
-    * Miss classes without a valid excuse
 
 ### Decisions
 
@@ -133,11 +143,12 @@ how long a decision will take to implement.
 * Acceptable Conduct (A):
   * Members shall
     * Take into account everyone's input in the decision making process
-    * Stay flexible and be willing to change if it would be productive
+    * Ensure that each member whom the decision will affect is aware of the decision being made
+    * Stay flexible and be willing to compromise if it would be productive
     * Report errors or bugs to the appropriate team members
     * Record what choice was made and when it was implemented
     * Defer to the Professor or student technical leaders when unsure
-    * Distribute tasks to all team members
+    * Fairly distribute tasks to all team members
     * A new decision should be made when a previous decision cannot be implemented
     * When a choice is disputed, use GitHub issue tracker and let team members
       share their opinion
