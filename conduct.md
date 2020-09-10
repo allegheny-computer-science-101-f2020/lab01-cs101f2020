@@ -30,10 +30,11 @@
     * Read, understand, and follow all parts of this code of Conduct
     * Follow the honor code on all submitted work
     * Engage respectfully with peers’ ideas and questions.
+    * Contribute to a positive working environment
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * Disrespect peers because of their race or gender
+    * Disrespect peers because of their race, gender identity, or sexuality
     * Prevent peers from voicing their opinions and questions
     * Violate any part of this Code of Conduct
     * Violate the Allegheny honor code in regards to all submitted work
@@ -63,6 +64,7 @@
   * Members shall not
     * Turn in assignments late without a valid excuse.
     * Ignore their team's deadlines.
+    * Negotiate deadlines on the same day a project is due.
 
 ### Communication
 
@@ -114,6 +116,11 @@ truly be all there.
     * Demonstrate continuous engagement with tasks
     * Be open minded
     * Raise a disagreeing opinion in a respectful manner
+    * Be a contributing member in lab groups
+    * Attend class sessions and be engaged during class
+    * Be willing to help other classmates with problems they may have
+    * Attended group work meetings
+
 * Unacceptable Conduct (U):
   * Members shall not
     * Demonstrate disrespect for team members
@@ -145,7 +152,9 @@ how long a decision will take to implement.
     * A new decision should be made when a previous decision cannot be implemented
     * When a choice is disputed, use GitHub issue tracker and let team members
       share their opinion
-    * Refer to class notes and the book when unsure
+    * Group members will agree on an allotted amount of time to respond to decision
+      discussion. If a group member does not participate in the decision within
+      allotted amount of time, their input is forfeited.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -154,7 +163,8 @@ how long a decision will take to implement.
     * Directly contradict the decision
     * Refuse to work on the decided option
     * Make decisions that would affect another team without first notifying them
-    * Make decisions that will affect the whole group with only certain group members (ie, excluding any group member from the decision-making process)
+    * Made decisions that unfairly burden one group member - to be determined by
+      Professor or technical leaders in event of dispute
 
 ### Postmortems
 
@@ -173,15 +183,14 @@ insight in how to improve in future projects.
     * Provide constructive feedback and propose solutions for issues faced
     * Receive feedback and discuss how it could be used to improve
     future projects and assignments
-    * Adhere to deadlines set by the team.
-    * Help other team members who get stuck.
+    * Provide feedback on aspects of the project that were particularly effective and should be used in the future
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Insult others while presenting criticism
     * Blame other members for any issues with the final product
     * Refuse to collaborate in fixing remaining issues
-    * Refuse to help complete assignment outside of class
+    * Refuse to attend meetings associated with the product
 
 ### Conflicts
 
@@ -254,8 +263,6 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-* Janyl Jumadinova
-* Bennett Westfall
-* Michael Ceccarelli
-* Truong Son Nguyen
-* Gary Chen
+Janyl Jumadinova
+
+* Annaliese Stone, Lex Caldwell, Mica Hanish, Kaleigh White, Abigail Waryanka, Alexander Le Floch, Dylan Holland, Jacob McCloskey, Adriana Solis
