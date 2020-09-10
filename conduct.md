@@ -64,6 +64,7 @@
   * Members shall not
     * Turn in assignments late without a valid excuse.
     * Ignore their team's deadlines.
+    * Negotiate deadlines on the same day a project is due.
 
 ### Communication
 
@@ -107,6 +108,7 @@ truly be all there.
     * Be a contributing member in lab groups
     * Attend class sessions and be engaged during class
     * Be willing to help other classmates with problems they may have
+    * Attended group work meetings
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -118,7 +120,6 @@ truly be all there.
     * Disrupt working teams' effectiveness by lack of collaboration
     * Attempt to dominate a lab discussions
     * Miss classes without a valid excuse
-    * Refuse assistance from TLs or peers
 
 ### Decisions
 
@@ -154,7 +155,6 @@ how long a decision will take to implement.
     * Made decisions that unfairly burden one group member - to be determined by
       Professor or technical leaders in event of dispute
 
-
 ### Postmortems
 
 Postmortems are great ways of looking at and analyzing the performance of the
@@ -173,7 +173,6 @@ insight in how to improve in future projects.
     * Receive feedback and discuss how it could be used to improve
     future projects and assignments
     * Provide feedback on aspects of the project that were particularly effective and should be used in the future
-
 
 * Unacceptable Conduct (U):
   * Members shall not
