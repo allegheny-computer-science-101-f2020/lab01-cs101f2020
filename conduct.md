@@ -98,6 +98,8 @@ truly be all there.
     * Demonstrate continuous engagement with tasks
     * Be open minded
     * Raise a disagreeing opinion in a respectful manner
+    * Add some input during group meetings.
+    * Message group members about any important discoveries they found.
     * :heavy_exclamation_mark: TODO: add any additional items in the A category for the participation in a team
 
 * Unacceptable Conduct (U):
@@ -109,6 +111,8 @@ truly be all there.
     collaboration in lab and Slack
     * Disrupt working teams' effectiveness by lack of collaboration
     * Attempt to dominate a lab discussions
+    * Avoid meeting times
+    * Use questionable resources to add to the group project.
     * :heavy_exclamation_mark: TODO: add any additional items in the U category for the participation in a team
 
 ### Decisions
