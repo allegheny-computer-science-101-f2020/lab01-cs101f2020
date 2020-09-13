@@ -63,13 +63,15 @@
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: TODO: add items in the A category for communication
-    in class (in-person and online), lab and practical sessions, and during team meetings
+    * :heavy_exclamation_mark:
+    * If needed, respond to team members as soon as possible.
+    * Group members should be open to a virtual or socially distanced in-person meeting to discuss how to assign roles for the project.
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for communication
-    in class (in-person and online), lab and practical sessions, and during team meetings
+    * :heavy_exclamation_mark:
+    * Do not take up all the responsibility in a group project
+    * Do not message team members last minute about the project.
 
 ## Team Work
 
