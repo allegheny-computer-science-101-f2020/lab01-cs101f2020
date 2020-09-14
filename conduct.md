@@ -70,7 +70,7 @@
 
 * Acceptable Conduct (A):
   * Members shall
-    * Only recover necessary information from data subjects.
+    * Only recover *necessary* information from data subjects.
     * Communicate regularly with the professor
     * Communicate with TL's when necessary
     * Communicate with other peers when necessary
@@ -265,4 +265,4 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 Janyl Jumadinova
 
-* Annaliese Stone, Lex Caldwell, Mica Hanish, Kaleigh White, Abigail Waryanka, Alexander Le Floch, Dylan Holland, Jacob McCloskey, Adriana Solis
+* Annaliese Stone, Lex Caldwell, Mica Hanish, Kaleigh White, Abigail Waryanka, Alexander Le Floch, Dylan Holland, Jacob McCloskey, Adriana Solis, Rowen Jennings
