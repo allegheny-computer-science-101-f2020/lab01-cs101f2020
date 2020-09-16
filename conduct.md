@@ -78,7 +78,7 @@
     * Communicate with other peers when necessary
     * Communicate with peers outside of class
     * Use communication methods other than slack
-    
+
 * Unacceptable Conduct (U):
   * Members shall not
     * Do not take up all the responsibility in a group project
@@ -89,7 +89,6 @@
     * Show passive-aggressive behavior to team members they disagree with
     * Trade secrets or confidential information entrusted to them without permission of the subjects.
     * Use disrespectful language
-
 
 ## Team Work
 
@@ -273,4 +272,3 @@ Any decision made by the instructor for the given infraction(s) will be final.
 Janyl Jumadinova
 
 * Annaliese Stone, Lex Caldwell, Mica Hanish, Kaleigh White, Abigail Waryanka, Alexander Le Floch, Dylan Holland, Jacob McCloskey, Adam Cohen Adriana Solis, zack devers, peter snipes, zoe white, kevin lee
-
