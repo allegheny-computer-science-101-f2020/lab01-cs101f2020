@@ -265,4 +265,4 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 Janyl Jumadinova
 
-* Annaliese Stone, Lex Caldwell, Mica Hanish, Kaleigh White, Abigail Waryanka, Alexander Le Floch, Dylan Holland, Jacob McCloskey, Adriana Solis, Rowen Jennings
+* Annaliese Stone, Lex Caldwell, Mica Hanish, Kaleigh White, Abigail Waryanka, Alexander Le Floch, Dylan Holland, Jacob McCloskey, Adriana Solis, Rowen Jennings, Aveet Desai
