@@ -71,6 +71,9 @@
 * Acceptable Conduct (A):
   * Members shall
     * Only recover *necessary* information from data subjects.
+    * If needed, respond to team members as soon as possible.
+    * Group members should be open to a virtual or socially distanced in-person meeting to discuss how to assign roles for the project.
+    * Only recover necessary information from data subjects.
     * Communicate regularly with the professor
     * Communicate with TL's when necessary
     * Communicate with other peers when necessary
@@ -79,6 +82,8 @@
 
 * Unacceptable Conduct (U):
   * Members shall not
+    * Do not take up all the responsibility in a group project
+    * Do not message team members last minute about the project.
     * Show disrespect when a team member sets a personal boundary
     * Speak condescendingly to a team member, even if they addressed you rudely first
     * Speaking out of turn/over someone who is already speaking
@@ -115,6 +120,8 @@ truly be all there.
     * Demonstrate continuous engagement with tasks
     * Be open minded
     * Raise a disagreeing opinion in a respectful manner
+    * Add some input during group meetings.
+    * Message group members about any important discoveries they found.
     * Approach the professor for mediation if another member shows unacceptable conduct
     * Be a contributing member in lab groups
     * Attend class sessions and be engaged during class
@@ -127,7 +134,7 @@ truly be all there.
     * Have an inappropriate professional boundary with team members
     * Show poor participation and attitude to their lab delegated tasks
     * Demonstrate patterns of poor communication or little effort for
-    collaboration in lab and Slack
+      collaboration in lab and Slack
     * Disrupt working teams' effectiveness by lack of collaboration
     * Attempt to dominate a lab discussions
 
@@ -265,4 +272,5 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 Janyl Jumadinova
 
-* Annaliese Stone, Lex Caldwell, Mica Hanish, Kaleigh White, Abigail Waryanka, Alexander Le Floch, Dylan Holland, Jacob McCloskey, Adriana Solis, Rowen Jennings, Aveet Desai
+
+* Annaliese Stone, Lex Caldwell, Mica Hanish, Kaleigh White, Abigail Waryanka, Alexander Le Floch, Dylan Holland, Jacob McCloskey, Adam Cohen, Adriana Solis, zack devers, peter snipes, zoe white, kevin lee, Aveet Desai, Michael Ceccarelli, Rowen Jennings
