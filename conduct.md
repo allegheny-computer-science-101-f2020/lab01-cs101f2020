@@ -70,6 +70,7 @@
 
 * Acceptable Conduct (A):
   * Members shall
+    * Only recover *necessary* information from data subjects.
     * If needed, respond to team members as soon as possible.
     * Group members should be open to a virtual or socially distanced in-person meeting to discuss how to assign roles for the project.
     * Only recover necessary information from data subjects.
@@ -271,4 +272,4 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 Janyl Jumadinova
 
-* Annaliese Stone, Lex Caldwell, Mica Hanish, Kaleigh White, Abigail Waryanka, Alexander Le Floch, Dylan Holland, Jacob McCloskey, Adam Cohen, Adriana Solis, zack devers, peter snipes, zoe white, kevin lee, Aveet Desai, Michael Ceccarelli
+* Annaliese Stone, Lex Caldwell, Mica Hanish, Kaleigh White, Abigail Waryanka, Alexander Le Floch, Dylan Holland, Jacob McCloskey, Adam Cohen, Adriana Solis, zack devers, peter snipes, zoe white, kevin lee, Aveet Desai, Michael Ceccarelli, Rowen Jennings
